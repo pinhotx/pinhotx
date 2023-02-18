@@ -1,4 +1,38 @@
-### Hi there 👋
+<h2 align="center">Hello World!! I am Pinho</h2>
+
+###
+
+<img align="left" height="200" src="https://static-cdn.jtvnw.net/jtv_user_pictures/f060e15f-9807-427f-8575-17a4bcffaf67-profile_image-300x300.png"  />
+
+###
+
+<p align="left">👤Name: Pinho Santiago | Tiago Silveira<br><br>🚹Pronoums: He/Him<br><br>🌲Breed: Pine Tree<br><br>🎸Class: Bard, Dev Mage<br><br>🇧🇷Nationality: Brazilian<br><br>🎥Ocupattion: VStreamer/Software Developer</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" width="52" alt="elixir logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" width="52" alt="phoenix logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/tsilveiraps">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 
 - 🔭 I’m currently working on [ExMon API](https://github.com/tiagopinhotx/ex_mon_api);
@@ -9,19 +43,26 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: All my own code projects, except for games, has a avatar, vtuber like, that represents it. 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2G4L27)
 
-<!--
-**tiagopinhotx/tiagopinhotx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://twitch.tv/pinhotx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=pinhotx&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitch logo"  />
+  </a>
+  <a href="https://twitter.com/tiagopinhotx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@tiagopinhotx&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/tiagopinhotx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@tiagopinhotx&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/tiagopinhotx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Tiago Silveira&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:tiagopinhotx@duck.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=tiagopinhotx@duck.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2G4L27)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
