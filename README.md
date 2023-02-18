@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👤Name: Pinho Santiago | Tiago Silveira<br><br>🚹Pronoums: He/Him<br><br>🌲Breed: Pine Tree<br><br>🎸Class: Bard, Dev Mage<br><br>🇧🇷Nationality: Brazilian<br><br>🎥Ocupattion: VStreamer/Software Developer</p>
+<p align="left">👤Name: Pinho Santiago | Tiago Silveira<br><br>🚹Pronoums: He/Him<br><br>🌲Breed: Pine Tree<br><br>🎸Class: Bard, Dev Mage<br><br>🇧🇷Nationality: Brazilian</p>
 
 ###
 
