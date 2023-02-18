@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👤 Name: Pinho Santiago | Tiago Silveira<br><br>🚹 Pronoums: He/Him<br><br>🌲 Breed: Pine Tree<br><br>🎸 Class: Bard, Dev Mage<br><br>🇧🇷 Nationality: Brazilian</p>
+<p align="left">👤 Name: Pinho Santiago | Tiago Silveira<br><br>🌲 Breed: Pine Tree<br><br>🎸 Class: Bard, Dev Mage<br><br>🇧🇷 Nationality: Brazilian<br><br>🎥Ocupattion: VStreamer/Software Developer</p>
 
 ###
 
@@ -62,9 +62,10 @@
   <a href="mailto:tiagopinhotx@duck.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=tiagopinhotx@duck.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="40" alt="microsoft-outlook logo"  />
   </a>
+  <a href="https://ko-fi.com/tiagopinhotx" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="40" alt="support-me on ko-fi"  />
+  </a>
   
 </div>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2G4L27)
 
 ###
