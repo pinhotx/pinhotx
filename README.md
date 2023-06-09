@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👤 Name: Pinho Santiago | Tiago Silveira<br><br>🌲 Age: 24 Springs<br><br>🎸 Class: Bard, Dev Mage<br><br>🇧🇷 Nationality: Brazilian<br><br>🎥Ocupattion: Sofware Developer</p>
+<p align="left">👤 Name: Pinho Oki | Tiago Silveira<br><br>🌲 Age: 24 Springs<br><br>🎸 Class: Bard, Dev Mage<br><br>🇧🇷 Nationality: Brazilian<br><br>🎥Ocupattion: Sofware Developer</p>
 
 ###
 
@@ -54,10 +54,10 @@
   <a href="https://linkedin.com/in/tiagopinhotx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Tiago Silveira&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:tiagopinhotx@duck.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=tiagopinhotx@duck.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="40" alt="microsoft-outlook logo"  />
+  <a href="mailto:tiago.pinhotx@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=tiago.pinhotx@outlook.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="40" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://ko-fi.com/tiagopinhotx" target="_blank">
+  <a href="https://ko-fi.com/pinhotx" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="40" alt="support-me on ko-fi"  />
   </a>
   
