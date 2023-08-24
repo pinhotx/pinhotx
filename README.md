@@ -37,6 +37,7 @@
 <h3 align="center">About Me</h3>
 
 <h4 align="center">Student at State College of Technology (FATEC) from Lins Prof. Antônio Seabra</h4>
+
 - 🌱 I’m currently learning Flutter;
 - 🎓 I'm focused on a game research about the history of mathematics
 - 💬 Ask me about Linux, Vtubing, Coding, Art, Design, Games, RPG or anything you like;
