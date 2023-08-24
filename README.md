@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👤 Name: Pinho Oki | Tiago Silveira<br><br>🌲 Age: 24 Springs<br><br>🎸 Class: Bard, Dev Mage<br><br>🇧🇷 Nationality: Brazilian<br><br>🎥Ocupattion: Sofware Developer</p>
+<p align="left">👤 Name: Pinho | Tiago Silveira<br><br>🌲 Age: 24 Springs<br><br>🎸 Class: Bard, Dev Mage<br><br>🇧🇷 Nationality: Brazilian<br><br>🎥 Ocupattion: Student</p>
 
 ###
 
@@ -36,12 +36,11 @@
 
 <h3 align="center">About Me</h3>
 
-- 🔭 I’m currently working on [ExMon API](https://github.com/tiagopinhotx/ex_mon_api);
-- 🌱 I’m currently learning Elixir and Phoenix;
-- 🤔 I’m looking for help with Full Stack App Development;
+<h4 align="center">Student at State College of Technology (FATEC) from Lins Prof. Antônio Seabra</h4>
+- 🌱 I’m currently learning Flutter;
+- 🎓 I'm focused on a game research about the history of mathematics
 - 💬 Ask me about Linux, Vtubing, Coding, Art, Design, Games, RPG or anything you like;
-- 📫 How to reach me: @tiagopinhotx on Telegram, Instagram or Twitter
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: @tiagopinhotx on Telegram
 - ⚡ Fun fact: All my own code projects, except for games, has a secret avatar, vtuber or RPG like, that represents it. 
 
 
@@ -51,7 +50,7 @@
   <a href="https://twitch.tv/pinhotx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=pinhotx&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitch logo"  />
   </a>
-  <a href="https://linkedin.com/in/tiagopinhotx" target="_blank">
+  <a href="https://linkedin.com/in/pinhotx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Tiago Silveira&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:tiago.pinhotx@outlook.com" target="_blank">
