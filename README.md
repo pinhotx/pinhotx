@@ -1,53 +1,99 @@
-<h2 align="center">Hello World!! I am Pinho</h2>
-
-###
-
-<img align="left" height="200" src="https://static-cdn.jtvnw.net/jtv_user_pictures/f060e15f-9807-427f-8575-17a4bcffaf67-profile_image-300x300.png"  />
-
-###
-
-<p align="left">👤 Name: Pinho | Tiago Silveira<br><br>🌲 Age: 24 Springs<br><br>🎸 Class: Bard, Dev Mage<br><br>🇧🇷 Nationality: Brazilian<br><br>🎥 Ocupattion: Student</p>
-
-###
+## <center>Hello World!! I am Pinho</center>
 
 <br clear="both">
 
+<h4 align="center">Lab. Technician at Federal Institute of Education, Science and Technology from São Paulo (IFSP) </h4>
+
+- 🌱 I’m currently learning about Computer Network
+- 🔭 I’m currently studying blender for Vtubing
+- 👯 I’m looking to collaborate on open source projects about education
+- 🤔 I’m looking for help with learning Elixir
+- 💬 Ask me about anything
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" width="52" alt="elixir logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" width="52" alt="phoenix logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/tsilveiraps">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 <h3 align="center">About Me</h3>
 
-<h4 align="center">Student at State College of Technology (FATEC) from Lins Prof. Antônio Seabra</h4>
+###
 
-- 🌱 I’m currently learning Flutter;
-- 🎓 I'm focused on a game research about the history of mathematics
-- 💬 Ask me about Linux, Vtubing, Coding, Art, Design, Games, RPG or anything you like;
-- 📫 How to reach me: @tiagopinhotx on Telegram
-- ⚡ Fun fact: All my own code projects, except for games, has a secret avatar, vtuber or RPG like, that represents it. 
+```elixir
+%About.Me{
+  info: %{
+    age: 25,
+    area: :it,
+    ocupattion: :public_employee,
+    name: %{
+      first: "Tiago", 
+      handler: :pinhotx, 
+      last: "Silveira"
+      nick: "Pinho",
+    }
+    title: "Technologist in System Analysis"
+  },
+  hobbies: [:gaming, :streaming, :coding, :tabletop_rpg, :watching_series],
+  name: %{
+   
+  }
+  tech_skills: %{
+    stack: [:fullstack],
+    languages: [
+      :dart, 
+      :elixir 
+      :javascript, 
+      :php
+    ],
+    frameworks: [
+      :flutter, 
+      :phoenix, 
+      :vuejs
+    ],
+    databases: [
+      :mysql, 
+      :postgresql
+    ],
+    tools: [
+      :bash, 
+      :linux, 
+      :vscode, 
+      :git, 
+      :github, 
+      :gitlab,
+      :notion
+      ],
+    soft_skills: [
+      :teamwork, 
+      :communication, 
+      :problem_solving
+    ],
+    :creative_apps: [
+      :blender, 
+      :illustrator, 
+      :krita, 
+      :penpot, 
+      :photoshop
+    ]
+  }
+}
+```
 
+### <center>📫 How to reach me:</center>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://twitch.tv/pinhotx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=pinhotx&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitch logo"  />
   </a>
