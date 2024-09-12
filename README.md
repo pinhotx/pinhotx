@@ -3,6 +3,7 @@
 <br clear="both">
 
 <h4 align="center">Lab. Technician at Federal Institute of Education, Science and Technology from São Paulo (IFSP) </h4>
+
 - 🔭 I’m currently studying Computer Network
 - 👯 I’m looking to collaborate on open source projects about education
 - 🤔 I’m looking for help with Streaming and Vtubing
