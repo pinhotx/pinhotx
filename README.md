@@ -31,7 +31,6 @@
 ```elixir
 %About.Me{
   info: %{
-    age: 25,
     area: :it,
     ocupattion: :public_employee,
     name: %{
