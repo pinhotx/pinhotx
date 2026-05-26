@@ -47,11 +47,11 @@
    
   }
   tech_skills: %{
-    stack: [:fullstack],
     languages: [
       :dart, 
       :elixir 
-      :javascript, 
+      :javascript,
+      :shell_script,
       :php
     ],
     frameworks: [
@@ -69,7 +69,6 @@
       :vscode, 
       :git, 
       :github, 
-      :gitlab,
       :notion
       ],
     soft_skills: [
@@ -95,9 +94,6 @@
 <div align="center">
   <a href="https://twitch.tv/pinhotx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=pinhotx&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://linkedin.com/in/pinhotx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Tiago Silveira&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:tiago.pinhotx@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=tiago.pinhotx@outlook.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="40" alt="microsoft-outlook logo"  />
